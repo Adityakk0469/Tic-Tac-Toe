@@ -14,7 +14,7 @@ git clone https://github.com/Adityakk0469/Tic-Tac-Toe.git
 Run the HTML file on local host
 
 ## Screenshot 
-![Sample](Tic-Tac-Toe\Sample.png "Optional Title")
+![Sample](Sample.png "Optional Title")
 
 ## Contributing
 
