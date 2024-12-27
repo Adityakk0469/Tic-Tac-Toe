@@ -66,7 +66,6 @@ function change(id) {
         wrong();
     }
 }
-
 function resetGame() {
     arr.fill(null);
     count = 0;
