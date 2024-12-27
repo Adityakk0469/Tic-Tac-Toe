@@ -71,4 +71,5 @@ function resetGame() {
     arr.fill(null);
     count = 0;
     document.querySelectorAll('.box').forEach(box => box.innerHTML = "");
+    document.querySelectorAll('.box').forEach(box => box.style.backgroundColor=" rgba(245, 245, 220, 0.57)");
 }

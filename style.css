@@ -10,10 +10,13 @@ body{
 .heading{
     text-align: center;
     color: beige;
-    font-size: 4rem;
+    font-size: 5rem;
     margin: 3rem 1rem 4rem 1rem;
-    text-shadow: 1px 1px 1px black;
-    font-family: Arial, sans-serif;
+    text-shadow: 3px 3px 4px rgba(0, 0, 0, 0.734);
+    font-family: 'Permanent Marker';
+    
+    /*font-family: Arial, sans-serif;
+    */
 }
 
 .container{
@@ -35,11 +38,11 @@ body{
     height: 100px;
     box-shadow:  5px 5px 10px 1px rgba(141, 141, 141, 0.5);
     border-radius: 10px;
-    border: 1px solid rgba(0, 0, 0, 0.5);
+    border: 1px solid rgba(0, 0, 0, 0.349);
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family: Arial, sans-serif;
+    font-family: 'Permanent Marker';
     font-size: 4rem;
 }
 .box:hover{
